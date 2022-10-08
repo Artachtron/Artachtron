@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Artachtron/Artachtron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Most of my repositories have to be kept private, refer to my CV's links to access them.
