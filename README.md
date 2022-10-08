@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Most of my repositories have to be kept private, refer to my CV's links to access them.
+Most of my repositories have to be kept private, refer to my CV's links or contact me to access them.
