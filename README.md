@@ -16,11 +16,23 @@
 </p>
 
 ---
-![My coder profile](./coder_profile.png)
+<p align="center">
+  <img src="./coder_profile.png" alt="My coder profile"/>
+</p>
 
 --- 
 <h3 align="left">Tools I like to use:</h3>
 <table>
+   <tr>
+    <td><strong>Development</strong></td>
+    <td>
+      <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" title="Go"/></a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" title="Python"/></a>
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="36" title="Bash"/></a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/></a>
+      <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" title="Java"/></a>
+    </td>
+  </tr>
   <tr>
     <td><strong>Containers & Orchestration</strong></td>
     <td>
@@ -38,8 +50,8 @@
   </tr>
   <tr>
     <td><strong>CI/CD & Automation</strong></td>
-    <td>
-      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/githubactions.svg" width="36" title="GitHub Actions"/></a>
+    <td>          
+      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="36" title="GitHub Actions"/></a>
       <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="36" title="GitLab CI"/></a>
       <a href="https://jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="36" title="Jenkins"/></a>
     </td>
@@ -51,11 +63,15 @@
       <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="36" title="Prometheus"/></a>
     </td>
   </tr>
-  <tr>
-    <td><strong>Cloud Platforms</strong></td>
-    <td>
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/amazonaws.svg" width="36" title="AWS"/></a>
-      <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" title="Azure"/></a>
-    </td>
-  </tr>
+ <tr>
+  <td><strong>Cloud Platforms</strong></td>
+  <td>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS"/>
+    </a>
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" title="Azure"/>
+    </a>
+  </td>
+</tr>
 </table>
