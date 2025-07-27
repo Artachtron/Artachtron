@@ -21,7 +21,7 @@
 </p>
 
 --- 
-<h3 align="left">Tools I like to use:</h3>
+<h3 align="left">Tools I like to use</h3>
 <table>
    <tr>
     <td><strong>Development</strong></td>
@@ -29,8 +29,6 @@
       <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" title="Go"/></a>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" title="Python"/></a>
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="36" title="Bash"/></a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/></a>
-      <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" title="Java"/></a>
     </td>
   </tr>
   <tr>
@@ -61,13 +59,16 @@
     <td>
       <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="36" title="Grafana"/></a>
       <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="36" title="Prometheus"/></a>
+      <a href="https://www.fluentd.org/" target="_blank" rel="noreferrer">
+        <img src="https://docs.fluentd.org/~gitbook/image?url=https%3A%2F%2F1982584918-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-LR7OsqPORtP86IQxs6E%252F-LkRmVyw0vEoFO0R2Z5g%252F-LkRmp4WbQZuDY3u9V4S%252FFluentd_icon.png%3Fgeneration%3D1563851183854365%26alt%3Dmedia&width=300&dpr=1&quality=100&sign=b531ce8&sv=2" width="36" title="Fluentd"/>
+      </a>
     </td>
   </tr>
  <tr>
   <td><strong>Cloud Platforms</strong></td>
   <td>
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" title="AWS"/>
     </a>
     <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" title="Azure"/>
