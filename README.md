@@ -3,7 +3,6 @@
   💻 <strong>DevOps Leader</strong> &nbsp;|&nbsp;
   🤖 <strong>Automation Enthusiast</strong> &nbsp;|&nbsp;
   🌟 <strong>Solutions Architect</strong> &nbsp;|&nbsp;
-  🖥️ <strong>Best Practice Advocate</strong> &nbsp;|&nbsp;
   📚 <strong>Lifelong Learner</strong>
 </p>
 
