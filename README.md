@@ -1,14 +1,61 @@
-<h1 align="center">Hi 👋, I'm Florent Vaucher</h1>
-<h3 align="center">A passionate machine learning and data science developer</h3>
-
-- 🌱 I’m currently learning **Quantum computing, MLOps, Deep RL and fullstack**
-
-- 💬 Ask me about **data science and machine learning**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/florentvaucher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florentvaucher/" height="30" width="40" /></a>
+<h1 align="center">Hi there 👋, I'm Florent Vaucher</h1>
+<p align="center">
+  💻 <strong>DevOps Leader</strong> &nbsp;|&nbsp;
+  🤖 <strong>Automation Enthusiast</strong> &nbsp;|&nbsp;
+  🌟 <strong>Solutions Architect</strong> &nbsp;|&nbsp;
+  🖥️ <strong>Best Practice Advocate</strong> &nbsp;|&nbsp;
+  📚 <strong>Lifelong Learner</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p align="center">
+  <a href="https://www.florentvaucher.dev/"><img src="https://img.shields.io/badge/Website-florentvaucher.dev-0a0a0a?style=flat&logo=about-dot-me&logoColor=white" /></a>
+  <a href="https://github.com/Artachtron"><img src="https://img.shields.io/badge/GitHub-@Artachtron-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/florentvaucher/"><img src="https://img.shields.io/badge/LinkedIn-@florentvaucher-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://gitlab.com/Nogatra"><img src="https://img.shields.io/badge/GitLab-@Nogatra-FC6D26?style=flat&logo=gitlab&logoColor=white" /></a>
+</p>
+
+---
+![My coder profile](./coder_profile.png)
+
+--- 
+<h3 align="left">Tools I like to use:</h3>
+<table>
+  <tr>
+    <td><strong>Containers & Orchestration</strong></td>
+    <td>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" title="Docker"/></a>
+      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" title="Kubernetes"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure as Code</strong></td>
+    <td>
+      <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="36" title="Ansible"/></a>
+      <a href="https://pulumi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pulumi/pulumi-original.svg" width="36" title="Pulumi"/></a>
+      <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="36" title="Terraform"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CI/CD & Automation</strong></td>
+    <td>
+      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/githubactions.svg" width="36" title="GitHub Actions"/></a>
+      <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="36" title="GitLab CI"/></a>
+      <a href="https://jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="36" title="Jenkins"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Monitoring & Observability</strong></td>
+    <td>
+      <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="36" title="Grafana"/></a>
+      <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="36" title="Prometheus"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud Platforms</strong></td>
+    <td>
+      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/amazonaws.svg" width="36" title="AWS"/></a>
+      <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" title="Azure"/></a>
+    </td>
+  </tr>
+</table>
