@@ -15,14 +15,12 @@
   <a href="https://gitlab.com/Nogatra"><img src="https://img.shields.io/badge/GitLab-@Nogatra-FC6D26?style=flat&logo=gitlab&logoColor=white" /></a>
 </p>
 
----
 <p align="center">
   <img src="./coder_profile.png" alt="My coder profile"/>
 </p>
 
---- 
-<h3 align="left">Tools I like to use</h3>
-<table>
+<h3 align="center">Tools I like to use</h3>
+<table align="center">
    <tr>
     <td><strong>Development</strong></td>
     <td>
